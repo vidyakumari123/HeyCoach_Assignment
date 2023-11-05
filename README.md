@@ -52,5 +52,6 @@ npm start
 ![1 PIC](https://github.com/vidyakumari123/HeyCoach_Assignment/assets/127233800/325bb0b5-34cd-49ce-be01-e19c672d6317)
 
 
-![PIC 2](https://github.com/vidyakumari123/HeyCoach_Assignment/assets/127233800/1f77745d-d213-4fb2-9fbd-015692fc738e)
+![PIC2](https://github.com/vidyakumari123/HeyCoach_Assignment/assets/127233800/152a49fb-89ed-42a6-89f4-77a33100064b)
+
 
